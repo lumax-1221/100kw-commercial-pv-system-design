@@ -11,3 +11,4 @@ deliverables/rendered/
 deliverables/*.inspect.ndjson
 references/datasheets/*.pdf
 sam/exports/
+deliverables/package.json
