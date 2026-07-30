@@ -1,0 +1,13 @@
+# Local runtime links and generated previews
+node_modules/
+calculations/node_modules/
+calculations/runtime/
+calculations/preview_*.png
+calculations/*.inspect.ndjson
+calculations/run.log
+deliverables/preview_slide_*.png
+deliverables/montage.png
+deliverables/rendered/
+deliverables/*.inspect.ndjson
+references/datasheets/*.pdf
+sam/exports/
